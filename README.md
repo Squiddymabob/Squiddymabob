@@ -30,7 +30,7 @@ I'm a full-stack developer residing in Winchester, England.
 ## :link: Links
 
 [![](https://img.shields.io/badge/-@Squiddymabob-%23282C34?style=flat-square&logo=twitter)](https://twitter.com/Squiddymabob)
-[![](https://img.shields.io/badge/-@Squiddymabob-%23282C34?style=flat-square&logo=instagram)](https://instagram.com/squiddymabob)
+[![](https://img.shields.io/badge/-@squiddymabob-%23282C34?style=flat-square&logo=instagram)](https://instagram.com/squiddymabob)
 [![](https://img.shields.io/badge/-EmilyWhite-%23282C34?style=flat-square&logo=linkedin&logoColor=2180cf)](https://www.linkedin.com/in/emilydwhite/)
 
 ## :trophy: Statistics
