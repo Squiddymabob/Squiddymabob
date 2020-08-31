@@ -1,5 +1,7 @@
 ## 👋 Greetings!
 
+
+
 <a href="https://twitter.com/Squiddymabob?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a>
 
 ## :trophy: Statistics:
@@ -12,6 +14,8 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Squiddymabob&theme=tokyonight" />
 </a>
 </div>
+
+Statistics available thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Squiddymabob/Squiddymabob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
