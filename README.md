@@ -6,6 +6,8 @@
 
 ## :trophy: Statistics:
 
+Statistics available thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+
 <div>
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Squiddymabob&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Squiddymabob&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight" />
@@ -14,8 +16,6 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Squiddymabob&theme=tokyonight" />
 </a>
 </div>
-
-Statistics available thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Squiddymabob/Squiddymabob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
