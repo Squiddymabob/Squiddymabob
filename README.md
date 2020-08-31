@@ -1,6 +1,5 @@
-### Greetings 🌈 
+### Greetings!
 
-- I'm a developer 💻, tea drinker ☕️, and writer 📚.
 - <a href="https://twitter.com/Squiddymabob?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a>
 
 <a href="https://github.com/Squiddymabob/Squiddymabob">
