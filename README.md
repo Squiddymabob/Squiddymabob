@@ -40,7 +40,7 @@ I'm a full-stack developer based in Winchester, England.
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squiddymabob&bg_color=212121&title_color=B3E5FC&text_color=29B6F6"" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squiddymabob&bg_color=212121&title_color=B3E5FC&text_color=29B6F6&layout=compact" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=Squiddymabob&bg_color=212121&title_color=B3E5FC&text_color=29B6F6" />
