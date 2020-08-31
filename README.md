@@ -5,10 +5,10 @@
 ## :trophy: Statistics (Public Repositories):
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Squiddymabob&count_private=true&show_icons=true&theme=tokyonight">
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Squiddymabob&count_private=true&show_icons=true&theme=ayu-mirage">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Squiddymabob&count_private=true&show_icons=true&theme=ayu-mirage" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Squiddymabob&hide=php&theme=tokyonight">
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Squiddymabob&hide=php&theme=ayu-mirage">
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Squiddymabob&hide=php&theme=ayu-mirage" />
 </a>
 </div>
