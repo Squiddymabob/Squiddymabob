@@ -1,4 +1,4 @@
-## 👋 Greetings!
+## 🦑 Greetings!
 
 I'm a full-stack developer based in Winchester, England.
 
