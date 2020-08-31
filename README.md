@@ -44,7 +44,7 @@ Statistics available thanks to [anuraghazra](https://github.com/anuraghazra/gith
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Squiddymabob&count_private=true&show_icons=true&include_all_commits=true&theme=nord">
   <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Squiddymabob&count_private=true&show_icons=true&include_all_commits=true&theme=nord" />
 </a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Squiddymabob&theme=nord">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Squiddymabob&theme=nord" />
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Squiddymabob&theme=nord&layout=compact">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Squiddymabob&theme=nord&layout=compact" />
 </a>
 </div>
