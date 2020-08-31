@@ -38,8 +38,6 @@ I'm a full-stack developer based in Winchester, England.
 
 ## :trophy: Statistics
 
-Statistics available thanks to [anuraghazra](https://github.com/anuraghazra/github-readme-stats).
-
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Squiddymabob&theme=nord&layout=compact" />
