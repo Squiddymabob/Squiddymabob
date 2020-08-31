@@ -2,8 +2,7 @@
 
 I'm a full-stack developer residing in Winchester, England.
 
-🏒 I’m currently working on a [React application](https://github.com/Squiddymabob/nhl-app) that presents various information about the NHL via official, yet undocumented, APIs.
-
+#### 🏒 I’m currently working on a [React application](https://github.com/Squiddymabob/nhl-app) that presents various information about the NHL via official, yet undocumented, APIs.
 
 [![](https://img.shields.io/badge/-@Squiddymabob-%23282C34?style=flat-square&logo=twitter)](https://twitter.com/Squiddymabob)
 [![](https://img.shields.io/badge/-@Squiddymabob-%23282C34?style=flat-square&logo=instagram)](https://instagram.com/squiddymabob)
