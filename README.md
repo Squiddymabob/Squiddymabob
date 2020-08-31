@@ -12,6 +12,7 @@ I'm a full-stack developer residing in Winchester, England.
 ![HTML5](https://img.shields.io/badge/-HTML5-%23282C34?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-%23282C34?style=flat-square&logo=css3&logoColor=264de4)
 ![Sass](https://img.shields.io/badge/-Sass-%23282C34?style=flat-square&logo=sass&logoColor=%23CC6699)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23282C34?style=flat-square&logo=bootstrap&logoColor=872ec7)
 
 ![ESlint](https://img.shields.io/badge/-ESLint-%23282C34?style=flat-square&logo=eslint&logoColor=6315eb)
 ![Git](https://img.shields.io/badge/-Git-%23282C34?style=flat-square&logo=git)
