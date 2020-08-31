@@ -2,7 +2,7 @@
 
 I'm a full-stack developer residing in Winchester, England.
 
-#### 🏒 I’m currently working on a [React application](https://github.com/Squiddymabob/nhl-app) that presents various information about the NHL via official, yet undocumented, APIs.
+#### 🏒 I’m currently working on a [React application](https://github.com/Squiddymabob/nhl-app) that presents NHL scores and team data, as well as supporting the Bruins during the Stanley Cup playoffs.
 
 ## 💻 Technologies I Currently Work With
 
