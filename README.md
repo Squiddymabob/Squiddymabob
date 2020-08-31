@@ -4,6 +4,8 @@ I'm a full-stack developer residing in Winchester, England.
 
 #### 🏒 I’m currently working on a [React application](https://github.com/Squiddymabob/nhl-app) that presents NHL scores and team data, as well as supporting the Bruins during the Stanley Cup playoffs.
 
+📚 I'm also working on my first novel.
+
 ## 💻 Technologies I Currently Work With
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23282C34?style=flat-square&logo=javascript)
@@ -22,11 +24,14 @@ I'm a full-stack developer residing in Winchester, England.
 ![Docker](https://img.shields.io/badge/-Docker-%23282C34?style=flat-square&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-%23282C34?style=flat-square&logo=amazon)
 
+![GIMP](https://img.shields.io/badge/-GIMP-%23282C34?style=flat-square&logo=gimp&logoColor=4d4b43)
+![Adobe XD](https://img.shields.io/badge/-AdobeXD-%23282C34?style=flat-square&logo=adobe&logoColor=bf479b)
+
 ## :link: Links
 
 [![](https://img.shields.io/badge/-@Squiddymabob-%23282C34?style=flat-square&logo=twitter)](https://twitter.com/Squiddymabob)
 [![](https://img.shields.io/badge/-@Squiddymabob-%23282C34?style=flat-square&logo=instagram)](https://instagram.com/squiddymabob)
-[![](https://img.shields.io/badge/-EmilyWhite-%23282C34?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/emilydwhite/)
+[![](https://img.shields.io/badge/-EmilyWhite-%23282C34?style=flat-square&logo=linkedin&logoColor=2180cf)](https://www.linkedin.com/in/emilydwhite/)
 
 ## :trophy: Statistics
 
