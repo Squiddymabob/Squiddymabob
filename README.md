@@ -1,11 +1,19 @@
-### Greetings!
+## 👋 Greetings!
 
 - <a href="https://twitter.com/Squiddymabob?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a>
 
-#### Statistics (Public Repositories)
-<a href="https://github.com/Squiddymabob/Squiddymabob">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Squiddymabob&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+![](https://visitor-badge.laobi.icu/badge?page_id=Squiddymabob.Squiddymabob) [![Github](https://img.shields.io/github/followers/Squiddymabob?label=Followers&logo=Github)](https://github.com/Squiddymabob)
+
+## :trophy: Statistics (Public Repositories):
+
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Squiddymabob&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Squiddymabob&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Squiddymabob&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Squiddymabob&hide=php&theme=tokyonight" />
+</a>
+</div>
 
 <!--
 **Squiddymabob/Squiddymabob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
