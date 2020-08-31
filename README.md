@@ -1,4 +1,4 @@
-## 🦑 Greetings!
+<h1 align="center"> 🦑 Greetings! </h1>
 
 I'm a full-stack developer based in Winchester, England.
 
@@ -8,7 +8,7 @@ I'm a full-stack developer based in Winchester, England.
 
 📚 I'm also working on a novel.
 
-## 💻 Technologies I Currently Work With
+<h3 align="center"> 💻 Technologies I Currently Work With </h3>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2e3440?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-2e3440?style=flat-square&logo=Vue.js)
@@ -29,14 +29,14 @@ I'm a full-stack developer based in Winchester, England.
 ![GIMP](https://img.shields.io/badge/-GIMP-2e3440?style=flat-square&logo=gimp&logoColor=4d4b43)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-2e3440?style=flat-square&logo=adobe&logoColor=bf479b)
 
-## :link: Links
+<h3 align="center"> :link: Links </h3>
 
 [![](https://img.shields.io/badge/-EmilyWhite-%23282C34?style=flat-square&logo=linkedin&logoColor=2180cf)](https://www.linkedin.com/in/emilydwhite/)
 [![](https://img.shields.io/badge/-@Squiddymabob-%23282C34?style=flat-square&logo=twitter)](https://twitter.com/Squiddymabob)
 [![](https://img.shields.io/badge/-@squiddymabob-%23282C34?style=flat-square&logo=instagram)](https://instagram.com/squiddymabob)
 [![](https://img.shields.io/badge/-squiddymabob-%23282C34?style=flat-square&logo=goodreads&logoColor=e8e3ba)](https://goodreads.com/squiddymabob)
 
-## :trophy: Statistics
+<h3 align="center"> :trophy: Statistics </h3>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
