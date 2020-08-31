@@ -5,7 +5,8 @@ I'm a full-stack developer residing in Winchester, England.
 - 🔭 I’m currently working on a React app to present NHL data via the official APIs.
 - 🌱 I’m currently improving my React skills.
 
-<a href="https://twitter.com/Squiddymabob?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a>
+[![](https://img.shields.io/badge/-@Squiddymabob-%23282C34?style=flat-square&logo=twitter)](https://twitter.com/Squiddymabob)
+[![](https://img.shields.io/badge/-@Squiddymabob-%23282C34?style=flat-square&logo=instagram)](https://instagram.com/squiddymabob)
 
 ## 💻 Favourite Technologies I Currently Work With
 
