@@ -1,4 +1,4 @@
-<h1 align="center"> 🦑 Greetings! </h1>
+## 🦑 Greetings!
 
 I'm a full-stack developer based in Winchester, England.
 
@@ -8,7 +8,7 @@ I'm a full-stack developer based in Winchester, England.
 
 📚 I'm also working on a novel.
 
-<h3 align="center"> 💻 Technologies I Currently Work With </h3>
+#### 💻 Technologies I Currently Work With
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2e3440?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-2e3440?style=flat-square&logo=Vue.js)
@@ -29,7 +29,7 @@ I'm a full-stack developer based in Winchester, England.
 ![GIMP](https://img.shields.io/badge/-GIMP-2e3440?style=flat-square&logo=gimp&logoColor=4d4b43)
 ![Adobe XD](https://img.shields.io/badge/-AdobeXD-2e3440?style=flat-square&logo=adobe&logoColor=bf479b)
 
-<h3 align="center"> :link: Links </h3>
+#### :link: Links
 
 [![](https://img.shields.io/badge/-EmilyWhite-%23282C34?style=flat-square&logo=linkedin&logoColor=2180cf)](https://www.linkedin.com/in/emilydwhite/)
 [![](https://img.shields.io/badge/-@Squiddymabob-%23282C34?style=flat-square&logo=twitter)](https://twitter.com/Squiddymabob)
