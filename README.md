@@ -8,7 +8,7 @@ I'm a full-stack developer residing in Winchester, England.
 [![](https://img.shields.io/badge/-@Squiddymabob-%23282C34?style=flat-square&logo=twitter)](https://twitter.com/Squiddymabob)
 [![](https://img.shields.io/badge/-@Squiddymabob-%23282C34?style=flat-square&logo=instagram)](https://instagram.com/squiddymabob)
 
-## 💻 Favourite Technologies I Currently Work With
+## 💻 Technologies I Currently Work With
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23282C34?style=flat-square&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%23282C34?style=flat-square&logo=Vue.js)
@@ -23,6 +23,7 @@ I'm a full-stack developer residing in Winchester, England.
 ![Java](https://img.shields.io/badge/-Java-%23282C34?style=flat-square&logo=java&logoColor=e8300c)
 ![Python](https://img.shields.io/badge/-Python-%23282C34?style=flat-square&logo=python)
 ![Docker](https://img.shields.io/badge/-Docker-%23282C34?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-%23282C34?style=flat-square&logo=amazon)
 
 
 ## :trophy: Statistics
