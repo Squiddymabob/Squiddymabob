@@ -1,8 +1,6 @@
 ## 👋 Greetings!
 
-- <a href="https://twitter.com/Squiddymabob?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a>
-
-![](https://visitor-badge.laobi.icu/badge?page_id=Squiddymabob.Squiddymabob) [![Github](https://img.shields.io/github/followers/Squiddymabob?label=Followers&logo=Github)](https://github.com/Squiddymabob)
+<a href="https://twitter.com/Squiddymabob?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a>
 
 ## :trophy: Statistics (Public Repositories):
 
