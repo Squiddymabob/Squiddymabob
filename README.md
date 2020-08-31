@@ -36,7 +36,7 @@ I'm a full-stack developer based in Winchester, England.
 [![](https://img.shields.io/badge/-@squiddymabob-%23282C34?style=flat-square&logo=instagram)](https://instagram.com/squiddymabob)
 [![](https://img.shields.io/badge/-squiddymabob-%23282C34?style=flat-square&logo=goodreads&logoColor=e8e3ba)](https://goodreads.com/squiddymabob)
 
-<h3 align="center"> :trophy: Statistics </h3>
+## :trophy: Statistics
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
