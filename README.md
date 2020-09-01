@@ -2,7 +2,7 @@
 
 I'm a full-stack developer based in Winchester, England. I love art; I am passionate about UI design and improving user experience.
 
-#### 🏒 I’m currently working on a [React application](https://github.com/Squiddymabob/nhl-app) that presents NHL scores and team data, as well as supporting the Bruins during the Stanley Cup playoffs.
+#### 🏒 I’m currently working on a [React application](https://github.com/Squiddymabob/nhl-app) that presents NHL scores and team data.
 
 🦑  I'm currently playing around with a [personal website](https://github.com/Squiddymabob/personal-website) using Vue.js.
 
