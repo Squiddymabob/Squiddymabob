@@ -4,7 +4,7 @@ I'm a full-stack developer based in Winchester, England. I love art; I am passio
 
 #### 🏒 I’m currently working on a [React application](https://github.com/Squiddymabob/nhl-app) that presents NHL scores and team data.
 
-🦑  I'm currently playing around with a [personal website](https://github.com/Squiddymabob/personal-website) using Vue.js/Nuxt.js.
+🦑  I'm currently playing around with a [personal website](https://github.com/Squiddymabob/personal-website) using Nuxt.js (Vue.js).
 
 📚 I'm also working on a novel.
 
