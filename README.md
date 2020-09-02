@@ -18,6 +18,7 @@ I'm a full-stack developer based in Winchester, England. I love art; I am passio
 ![Java](https://img.shields.io/badge/-Java-212121?style=flat-square&logo=java&logoColor=e8300c)
 ![Python](https://img.shields.io/badge/-Python-212121?style=flat-square&logo=python)
 
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-212121?style=flat-square&logo=nuxt.js)
 ![Sass](https://img.shields.io/badge/-Sass-212121?style=flat-square&logo=sass&logoColor=%23CC6699)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-212121?style=flat-square&logo=bootstrap&logoColor=872ec7)
 ![ESlint](https://img.shields.io/badge/-ESLint-212121?style=flat-square&logo=eslint&logoColor=6315eb)
